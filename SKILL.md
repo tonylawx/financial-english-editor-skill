@@ -21,6 +21,12 @@ Use this skill for:
 
 Do not use this skill for legal translations, audited financial statements, or documents where literal wording is contractually required.
 
+## Language Reference
+
+For Chinese market jargon, trading idioms, options terminology, macro language, technical analysis, valuation language, positioning, flows, and tone mapping, consult `references/market-language.md`.
+
+Do not treat the reference as a one-to-one dictionary. Pick the expression that matches the actual market meaning and rewrite the sentence when no natural direct equivalent exists.
+
 ## Workflow
 
 ### 1. Extract the market meaning first
